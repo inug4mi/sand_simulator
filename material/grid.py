@@ -6,9 +6,13 @@ class Grid:
 		self.id = 0
 		self.vals = {}
 
+	def start_render(self):
+		for x in range(self.width//size):
+			for y in range(self.height//size):
+				self.vals.update({(x,y):self.id})
+
 	def draw(self):
 		for x in range(self.width//size):
 			for y in range(self.height//size):
 				self.vals.update({(x,y):self.id})
-				#pygame.draw.rect(window,(225,225,225),(size*x,y*size,size,size),1)
 
