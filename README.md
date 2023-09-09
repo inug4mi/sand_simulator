@@ -6,8 +6,8 @@ Run main
 # How to use
 Press 1 to create block of stone
 
-Press 2 to palce block of sand
+Press 2 to create block of sand
 
-Press 3 to place block of water
+Press 3 to create block of water
 
 Press c to clear screen
