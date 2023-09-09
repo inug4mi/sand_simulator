@@ -1,7 +1,10 @@
 # Sand-Simulator
+Make sure to have pygame module installed
+
 Place all files into the same folder
 
 Run main
+
 
 # How to use
 Press 1 to create block of stone
