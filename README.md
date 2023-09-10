@@ -1,5 +1,5 @@
 # Sand-Simulator
-Make sure to have pygame module installed
+Make sure to have pygame library installed
 
 Place all files into the same folder
 
